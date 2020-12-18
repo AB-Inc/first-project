@@ -1,2 +1,2 @@
 # first-project
-Some very another description
+Some another description
